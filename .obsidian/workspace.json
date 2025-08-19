@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "f4c0ea965968540f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fce940c18301f55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f5c5746fa749449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/agents/01_start_commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_start_commands"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0924f09a844146f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe7d693ba7eff442",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4a908ffc66889ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "6dbddae2c970d763",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "79a9e9648cb8ffcc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "975ae8013844a7b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e87462ae3f578d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "420d12975a1ba85b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/agents/01_start_commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "01_start_commandsへのバックリンク"
+            }
+          },
+          {
+            "id": "8d18616489b59c43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/agents/01_start_commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "01_start_commandsからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "59999b972ba6612d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "90e32f0199cd3506",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/agents/01_start_commands.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "01_start_commandsのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "9f5c5746fa749449",
+  "lastOpenFiles": [
+    "docs/agents/02_startup_options.md",
+    "docs/help.txt",
+    "docs/新規 Text Document.txt",
+    "docs/index.md",
+    "docs/02_basics.md",
+    "docs/01_install.md",
+    "docs/agents/01_start_commands.md",
+    "docs/agents",
+    "docs/03_commands.md",
+    "docs/04_workspace.md",
+    "docs/05_troubleshooting.md",
+    "AGENTS.md",
+    "README.md",
+    "docs"
+  ]
+}
