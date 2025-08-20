@@ -5,5 +5,4 @@
 - [03_commands.md](03_commands.md): コマンド集（統合版）。
 - [04_workspace.md](04_workspace.md): ワークスペース運用と編集手順。
 - [05_troubleshooting.md](05_troubleshooting.md): よくあるエラーと対処。
-- [help.txt](help.txt): CLI ヘルプ原文（素材）。
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/03_commands.md",
+                "file": "AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_commands"
+              "title": "AGENTS"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/03_commands.md",
+                "file": "AGENTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "03_commandsへのバックリンク"
+              "title": "AGENTSへのバックリンク"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/03_commands.md",
+                "file": "AGENTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "03_commandsからのアウトゴーイングリンク"
+              "title": "AGENTSからのアウトゴーイングリンク"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/03_commands.md",
+                "file": "AGENTS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03_commandsのアウトライン"
+              "title": "AGENTSのアウトライン"
             }
           }
         ]
@@ -170,13 +170,13 @@
   },
   "active": "9f5c5746fa749449",
   "lastOpenFiles": [
-    "docs/02_basics.md",
-    "docs/01_install.md",
     "docs/index.md",
     "docs/05_troubleshooting.md",
     "docs/04_workspace.md",
-    "docs/agents/01_start_commands.md",
     "docs/03_commands.md",
+    "docs/02_basics.md",
+    "docs/01_install.md",
+    "docs/agents/01_start_commands.md",
     "docs/agents/03_help_reference.md",
     "docs/agents/02_startup_options.md",
     "CON",
